@@ -66,6 +66,6 @@
   ],
   "homepage": "http://github.com/datasets/geo-countries",
   "collection": "geojson",
-  "has_premium": true,
+  "has_extended_version": true,
   "has_solutions": ["global-country-region-reference-data"]
 }
